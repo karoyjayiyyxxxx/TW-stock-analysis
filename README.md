@@ -18,6 +18,9 @@
 
 ### 1. 安裝必要套件
 請確保已安裝 Python 3.8+，並執行以下指令安裝套件：
-
 ```bash
 pip install -r requirements.txt
+
+###2. 執行程式
+```bash
+python main.py
