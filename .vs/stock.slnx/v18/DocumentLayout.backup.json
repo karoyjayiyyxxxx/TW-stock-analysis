@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kitty\\source\\repos\\stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57858623-C224-4C34-97CF-3B415F82F265}|stock\\stock.pyproj|C:\\Users\\kitty\\source\\repos\\stock\\stock\\stock.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57858623-C224-4C34-97CF-3B415F82F265}|stock\\stock.pyproj|solutionrelative:stock\\stock.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stock.py",
+              "DocumentMoniker": "C:\\Users\\kitty\\source\\repos\\stock\\stock\\stock.py",
+              "RelativeDocumentMoniker": "stock\\stock.py",
+              "ToolTip": "C:\\Users\\kitty\\source\\repos\\stock\\stock\\stock.py",
+              "RelativeToolTip": "stock\\stock.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-17T11:08:20.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
