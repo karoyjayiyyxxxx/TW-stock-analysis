@@ -1,4 +1,4 @@
-# 📈 TW Stock Analysis (台股 AI 智能分析雷達)
+# 📈 TW Stock Analyze (台股 AI 智能分析雷達)
 
 這是一個基於 Python 的台股自動化分析工具，結合了 **MACD**、**布林通道 (Bollinger Bands)** 與 **SAR (拋物線指標)**，能協助投資人快速掃描市場熱門股，並提供精確的進出場訊號建議。
 
@@ -21,3 +21,25 @@
 
 ```bash
 pip install -r requirements.txt
+
+```
+
+### 2. 執行程式
+
+```bash
+python main.py
+
+```
+
+## 🚀 使用截圖
+
+<img width="1012" height="630" alt="image" src="https://github.com/user-attachments/assets/bfc152ab-4735-4a20-a4e0-7edc5d6d026f" />
+<img width="1012" height="626" alt="image" src="https://github.com/user-attachments/assets/49f1afb0-f0cc-4e3b-9088-442edd32686a" />
+<img width="1702" height="856" alt="image" src="https://github.com/user-attachments/assets/c4c374e8-b924-4b2f-8403-1f48234c7166" />
+
+
+
+## ⚠️ 免責聲明
+
+本工具僅供技術分析研究與程式交易學習使用，不代表任何投資建議。股市投資有風險，請使用者自行判斷並承擔風險。
+---
