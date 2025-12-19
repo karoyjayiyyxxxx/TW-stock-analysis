@@ -34,8 +34,11 @@ python main.py
 ## 🚀 使用截圖
 
 <img width="1012" height="630" alt="image" src="https://github.com/user-attachments/assets/bfc152ab-4735-4a20-a4e0-7edc5d6d026f" />
-<img width="1012" height="626" alt="image" src="https://github.com/user-attachments/assets/49f1afb0-f0cc-4e3b-9088-442edd32686a" />
-<img width="1702" height="856" alt="image" src="https://github.com/user-attachments/assets/c4c374e8-b924-4b2f-8403-1f48234c7166" />
+<img width="649" height="647" alt="image" src="https://github.com/user-attachments/assets/253aeccf-1805-4db7-a713-0cc55b2aa4c8" />
+<img width="905" height="417" alt="image" src="https://github.com/user-attachments/assets/b11f00e6-9cb7-4ca8-9930-c5601e220167" />
+<img width="824" height="341" alt="image" src="https://github.com/user-attachments/assets/8fc5b8d5-ffcf-45f7-80ce-2148b9885211" />
+
+
 
 
 
